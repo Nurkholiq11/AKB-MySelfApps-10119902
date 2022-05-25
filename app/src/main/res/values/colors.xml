@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background1">#2A2E37</color>
+    <color name="background2">#2f3541</color>
+    <color name="gold">#FFD700</color>
+    <color name="oldGold">#d0af00</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorSunYellow">#ffe41e</color>
+    <color name="colorSunflower">#ffc50d</color>
+    <color name="colorCoolGrey">#bababb</color>
+</resources>
